@@ -9,7 +9,7 @@ jobs:
   Commits:
     runs-on: windows-latest
     steps:
-      - uses: actions/checkout@v4.1.7
+      - uses: actions/checkout@v4.2.1
         with:
           ref: X
       - name: Configure Git
