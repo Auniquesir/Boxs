@@ -1,6 +1,6 @@
 # 规则名称: Antiad
-# 规则数量: 137495
-# 更新时间: 2024-10-20 08:41:53
+# 规则数量: 137502
+# 更新时间: 2024-10-20 20:14:00
 
 payload:
   - DOMAIN,0.101tubeporn.com
@@ -817,7 +817,6 @@ payload:
   - DOMAIN,1bf00b950c.com
   - DOMAIN,1bliq.io
   - DOMAIN,1bm3n8sld.de
-  - DOMAIN,1bmo-reactivemyaccount0.com
   - DOMAIN,1bpmtrvkqkj.pettoonies.com
   - DOMAIN,1buu1.penyouw.com
   - DOMAIN,1bva.sg.fr
@@ -16021,6 +16020,7 @@ payload:
   - DOMAIN,aps.hearstnp.com
   - DOMAIN,apsalar.com
   - DOMAIN,apsatnlfylz.com
+  - DOMAIN,apsehick.date
   - DOMAIN,apsis1.com
   - DOMAIN,apsislead.com
   - DOMAIN,apslline.com
@@ -17015,6 +17015,7 @@ payload:
   - DOMAIN,atoniaregracy.com
   - DOMAIN,atoplayads.com
   - DOMAIN,atordeg.com.br
+  - DOMAIN,atorks.xyz
   - DOMAIN,atoso.alphatonicoffers.online
   - DOMAIN,atout-energie-69.com
   - DOMAIN,atp.io
@@ -19254,7 +19255,6 @@ payload:
   - DOMAIN,beacon-fullpage-predictor.goguardian.com
   - DOMAIN,beacon.adelphic.com
   - DOMAIN,beacon.affil.walmart.com
-  - DOMAIN,beacon.apsehick.date
   - DOMAIN,beacon.carfax.com
   - DOMAIN,beacon.cdn.qq.com
   - DOMAIN,beacon.cdnma.com
@@ -28717,6 +28717,7 @@ payload:
   - DOMAIN,contagiongrievedoasis.com
   - DOMAIN,contagionwashingreduction.com
   - DOMAIN,contagiousbookcasepants.com
+  - DOMAIN,containably.com
   - DOMAIN,container.pepperjam.com
   - DOMAIN,containingwaitdivine.com
   - DOMAIN,containssubordinatecologne.com
@@ -30403,7 +30404,6 @@ payload:
   - DOMAIN,csbets.us
   - DOMAIN,csbew.com
   - DOMAIN,csbmey.viherpeukalot.fi
-  - DOMAIN,csbo.shop
   - DOMAIN,csboab.fiufiu.co
   - DOMAIN,csbol.pro
   - DOMAIN,cscccase.online
@@ -42275,6 +42275,7 @@ payload:
   - DOMAIN,ekpecfetvved.xyz
   - DOMAIN,ekphpa.perfectlypriscilla.com
   - DOMAIN,eksiup.com
+  - DOMAIN,eksofy.com
   - DOMAIN,ekszgamesoft.com
   - DOMAIN,ekwzxay.com
   - DOMAIN,ekxyrwvoegb.xyz
@@ -42381,6 +42382,7 @@ payload:
   - DOMAIN,elitemoneymethods.com
   - DOMAIN,elitesfiles.com
   - DOMAIN,elitesolutions.adp401k.com
+  - DOMAIN,elitestrustonline.biz
   - DOMAIN,elitestrustonline.com
   - DOMAIN,elitetoplist.com
   - DOMAIN,eliteviphacks.com
@@ -65868,6 +65870,7 @@ payload:
   - DOMAIN,kmqhmn.helen-marlen.com
   - DOMAIN,kmqianneng66.com
   - DOMAIN,kmruv.cn
+  - DOMAIN,kms-full.com
   - DOMAIN,kms-pc.com
   - DOMAIN,kms-tool.com
   - DOMAIN,kmsauto.info
@@ -80748,6 +80751,7 @@ payload:
   - DOMAIN,mybinaryoptionsrobot.com
   - DOMAIN,mybjjg.vlan.be
   - DOMAIN,mybloglog.com
+  - DOMAIN,myblogshop.top
   - DOMAIN,mybmrtrg.com
   - DOMAIN,myboxgo.com
   - DOMAIN,mybuys.com
@@ -81345,19 +81349,17 @@ payload:
   - DOMAIN,navi10.ru
   - DOMAIN,navi100.com
   - DOMAIN,navi12.com
-  - DOMAIN,navi12.ru
   - DOMAIN,navi18.com
-  - DOMAIN,navi19.ru
   - DOMAIN,navi2.com
   - DOMAIN,navi20.com
   - DOMAIN,navi20.ru
   - DOMAIN,navi21.com
+  - DOMAIN,navi22.com
   - DOMAIN,navi22.ru
   - DOMAIN,navi23.com
   - DOMAIN,navi23.ru
   - DOMAIN,navi24.com
   - DOMAIN,navi24.ru
-  - DOMAIN,navi25.ru
   - DOMAIN,navi3.com
   - DOMAIN,navi30.ru
   - DOMAIN,navi32.com
@@ -81388,6 +81390,7 @@ payload:
   - DOMAIN,navi78.ru
   - DOMAIN,navi8.com
   - DOMAIN,navi86.ru
+  - DOMAIN,navi87.ru
   - DOMAIN,navi88.com
   - DOMAIN,navi99.com
   - DOMAIN,naviblue-team.com
@@ -86291,6 +86294,7 @@ payload:
   - DOMAIN,ourcoolstories.com
   - DOMAIN,ourdesperate.com
   - DOMAIN,ourdreamsanswer.info
+  - DOMAIN,ouresdk.top
   - DOMAIN,ourgumpu.xyz
   - DOMAIN,ourhackgames.com
   - DOMAIN,ourhackz.com
@@ -87372,6 +87376,7 @@ payload:
   - DOMAIN,parafiaukta.pl
   - DOMAIN,paragraphdisappointingthinks.com
   - DOMAIN,paragraphopera.com
+  - DOMAIN,parajumperssalg.com
   - DOMAIN,parakeet.buildcodelearn.com
   - DOMAIN,parakeet.jorenvanhocht.be
   - DOMAIN,parakeet.kenleyar.ai
@@ -98326,7 +98331,6 @@ payload:
   - DOMAIN,ruohmghwpzzp.com
   - DOMAIN,ruozukk.xyz
   - DOMAIN,rup5.destinia.ru
-  - DOMAIN,rupiahsaku.com
   - DOMAIN,rupmlh.cn
   - DOMAIN,ruqwgb.icu
   - DOMAIN,rural-report.pro
@@ -112450,6 +112454,7 @@ payload:
   - DOMAIN,storeapps24.com
   - DOMAIN,storeax.com
   - DOMAIN,storecollegeonline.com
+  - DOMAIN,storecommuinityworkshop.com
   - DOMAIN,storeconfig.mistat.intl.xiaomi.com
   - DOMAIN,storedarkness.com
   - DOMAIN,storefiles.me
@@ -114032,6 +114037,7 @@ payload:
   - DOMAIN,sysadmin.map24.com
   - DOMAIN,sysdig.com
   - DOMAIN,syshrugglefor.info
+  - DOMAIN,syshwc.xyz
   - DOMAIN,sysip.net
   - DOMAIN,sysmon.kakaku.com
   - DOMAIN,sysomos.com
@@ -123912,7 +123918,6 @@ payload:
   - DOMAIN,twoje-nagrody.pl
   - DOMAIN,twojszczesliwydzien.com
   - DOMAIN,twokidjay.com
-  - DOMAIN,twoter.info
   - DOMAIN,twotouchauthentication.online
   - DOMAIN,twovqti.com
   - DOMAIN,twpasol.com
@@ -133272,6 +133277,7 @@ payload:
   - DOMAIN,xc.macd.cn
   - DOMAIN,xc.mydrivers.com
   - DOMAIN,xcaoatrv.com
+  - DOMAIN,xcartpro.com
   - DOMAIN,xccadc.com
   - DOMAIN,xcdf.cn
   - DOMAIN,xcdkxayfqe.com
@@ -134996,6 +135002,7 @@ payload:
   - DOMAIN,yes-messenger.com
   - DOMAIN,yes1.feng.com
   - DOMAIN,yes115.com
+  - DOMAIN,yes88kks.infinityscans.net
   - DOMAIN,yesads.com
   - DOMAIN,yesadvertising.com
   - DOMAIN,yesfreedl.com

@@ -1,6 +1,6 @@
 # 规则名称: AdBlock
-# 规则数量: 137497
-# 更新时间: 2024-10-20 08:41:53
+# 规则数量: 137504
+# 更新时间: 2024-10-20 20:13:59
 
 no_resolve: true
 domain_set:
@@ -819,7 +819,6 @@ domain_suffix_set:
 - 1bf00b950c.com
 - 1bliq.io
 - 1bm3n8sld.de
-- 1bmo-reactivemyaccount0.com
 - 1bpmtrvkqkj.pettoonies.com
 - 1buu1.penyouw.com
 - 1bva.sg.fr
@@ -16023,6 +16022,7 @@ domain_suffix_set:
 - aps.hearstnp.com
 - apsalar.com
 - apsatnlfylz.com
+- apsehick.date
 - apsis1.com
 - apsislead.com
 - apslline.com
@@ -17017,6 +17017,7 @@ domain_suffix_set:
 - atoniaregracy.com
 - atoplayads.com
 - atordeg.com.br
+- atorks.xyz
 - atoso.alphatonicoffers.online
 - atout-energie-69.com
 - atp.io
@@ -19256,7 +19257,6 @@ domain_suffix_set:
 - beacon-fullpage-predictor.goguardian.com
 - beacon.adelphic.com
 - beacon.affil.walmart.com
-- beacon.apsehick.date
 - beacon.carfax.com
 - beacon.cdn.qq.com
 - beacon.cdnma.com
@@ -28719,6 +28719,7 @@ domain_suffix_set:
 - contagiongrievedoasis.com
 - contagionwashingreduction.com
 - contagiousbookcasepants.com
+- containably.com
 - container.pepperjam.com
 - containingwaitdivine.com
 - containssubordinatecologne.com
@@ -30405,7 +30406,6 @@ domain_suffix_set:
 - csbets.us
 - csbew.com
 - csbmey.viherpeukalot.fi
-- csbo.shop
 - csboab.fiufiu.co
 - csbol.pro
 - cscccase.online
@@ -42277,6 +42277,7 @@ domain_suffix_set:
 - ekpecfetvved.xyz
 - ekphpa.perfectlypriscilla.com
 - eksiup.com
+- eksofy.com
 - ekszgamesoft.com
 - ekwzxay.com
 - ekxyrwvoegb.xyz
@@ -42383,6 +42384,7 @@ domain_suffix_set:
 - elitemoneymethods.com
 - elitesfiles.com
 - elitesolutions.adp401k.com
+- elitestrustonline.biz
 - elitestrustonline.com
 - elitetoplist.com
 - eliteviphacks.com
@@ -65870,6 +65872,7 @@ domain_suffix_set:
 - kmqhmn.helen-marlen.com
 - kmqianneng66.com
 - kmruv.cn
+- kms-full.com
 - kms-pc.com
 - kms-tool.com
 - kmsauto.info
@@ -80750,6 +80753,7 @@ domain_suffix_set:
 - mybinaryoptionsrobot.com
 - mybjjg.vlan.be
 - mybloglog.com
+- myblogshop.top
 - mybmrtrg.com
 - myboxgo.com
 - mybuys.com
@@ -81347,19 +81351,17 @@ domain_suffix_set:
 - navi10.ru
 - navi100.com
 - navi12.com
-- navi12.ru
 - navi18.com
-- navi19.ru
 - navi2.com
 - navi20.com
 - navi20.ru
 - navi21.com
+- navi22.com
 - navi22.ru
 - navi23.com
 - navi23.ru
 - navi24.com
 - navi24.ru
-- navi25.ru
 - navi3.com
 - navi30.ru
 - navi32.com
@@ -81390,6 +81392,7 @@ domain_suffix_set:
 - navi78.ru
 - navi8.com
 - navi86.ru
+- navi87.ru
 - navi88.com
 - navi99.com
 - naviblue-team.com
@@ -86293,6 +86296,7 @@ domain_suffix_set:
 - ourcoolstories.com
 - ourdesperate.com
 - ourdreamsanswer.info
+- ouresdk.top
 - ourgumpu.xyz
 - ourhackgames.com
 - ourhackz.com
@@ -87374,6 +87378,7 @@ domain_suffix_set:
 - parafiaukta.pl
 - paragraphdisappointingthinks.com
 - paragraphopera.com
+- parajumperssalg.com
 - parakeet.buildcodelearn.com
 - parakeet.jorenvanhocht.be
 - parakeet.kenleyar.ai
@@ -98328,7 +98333,6 @@ domain_suffix_set:
 - ruohmghwpzzp.com
 - ruozukk.xyz
 - rup5.destinia.ru
-- rupiahsaku.com
 - rupmlh.cn
 - ruqwgb.icu
 - rural-report.pro
@@ -112452,6 +112456,7 @@ domain_suffix_set:
 - storeapps24.com
 - storeax.com
 - storecollegeonline.com
+- storecommuinityworkshop.com
 - storeconfig.mistat.intl.xiaomi.com
 - storedarkness.com
 - storefiles.me
@@ -114034,6 +114039,7 @@ domain_suffix_set:
 - sysadmin.map24.com
 - sysdig.com
 - syshrugglefor.info
+- syshwc.xyz
 - sysip.net
 - sysmon.kakaku.com
 - sysomos.com
@@ -123914,7 +123920,6 @@ domain_suffix_set:
 - twoje-nagrody.pl
 - twojszczesliwydzien.com
 - twokidjay.com
-- twoter.info
 - twotouchauthentication.online
 - twovqti.com
 - twpasol.com
@@ -133274,6 +133279,7 @@ domain_suffix_set:
 - xc.macd.cn
 - xc.mydrivers.com
 - xcaoatrv.com
+- xcartpro.com
 - xccadc.com
 - xcdf.cn
 - xcdkxayfqe.com
@@ -134998,6 +135004,7 @@ domain_suffix_set:
 - yes-messenger.com
 - yes1.feng.com
 - yes115.com
+- yes88kks.infinityscans.net
 - yesads.com
 - yesadvertising.com
 - yesfreedl.com
