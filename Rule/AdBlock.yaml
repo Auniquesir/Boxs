@@ -1,6 +1,6 @@
 # 规则名称: AdBlock
-# 规则数量: 137579
-# 更新时间: 2024-10-22 08:38:36
+# 规则数量: 137587
+# 更新时间: 2024-10-22 20:14:46
 
 no_resolve: true
 domain_set:
@@ -1344,6 +1344,7 @@ domain_suffix_set:
 - 2aefgbf.de
 - 2appup.com
 - 2aus34sie6po5m.com
+- 2axpwa4.xyz
 - 2b2359b518.com
 - 2b2a5aa2e8.580a3132d3.com
 - 2b6b88fc7b.a1bbcd100e.com
@@ -21530,6 +21531,7 @@ domain_suffix_set:
 - bootsstation-reiherhals.de
 - bootstrap-framework.org
 - bootstraplugin.com
+- bootstron.com
 - bootvolleyball.com
 - boovoogie.net
 - boowang.com
@@ -27565,7 +27567,6 @@ domain_suffix_set:
 - co-sentry.wps.cn
 - co.5.p2l.info
 - co.dtech.baofeng.com
-- co.limbecculvers.com
 - co5457chu.com
 - co5n3nerm6arapo7ny.com
 - co85264.com
@@ -29726,6 +29727,7 @@ domain_suffix_set:
 - cousinglandsgreed.com
 - cousingypsy.com
 - cousinscostsalready.com
+- couvxlif.top
 - couwainu.xyz
 - couwhivu.com
 - couwooji.xyz
@@ -39574,6 +39576,7 @@ domain_suffix_set:
 - dpvc2.qqyy.com
 - dpvchos.qqyy.com
 - dpvcimg.qqyy.com
+- dpw202504.com
 - dpweupc.icu
 - dpyabvkadg.com
 - dpzgwzjledx.com
@@ -67087,6 +67090,7 @@ domain_suffix_set:
 - lakvandula.com
 - lalabaos1020.top
 - lalabaos1021.top
+- lalabaos1022.top
 - lalala.geenstijl.nl
 - lalaping.com
 - lalapush.com
@@ -68337,6 +68341,7 @@ domain_suffix_set:
 - lilyrealitycourthouse.com
 - lilysuffocateacademy.com
 - lilysummoned.com
+- limbecculvers.com
 - limberf.quigglef.site
 - limberkilnman.cam
 - limbievireos.com
@@ -103653,6 +103658,7 @@ domain_suffix_set:
 - sjsabb.com
 - sjtactic.com
 - sjv.io
+- sjyhead.icu
 - sjyskm.litres.ru
 - sjyzsm.danjohn.com
 - sk-batteryimport.m-shop.me
@@ -134200,6 +134206,7 @@ domain_suffix_set:
 - xn--521-x72fh66s.cn
 - xn--80afden1bnch4a.xn--p1ai
 - xn--bitskns-vfb.com
+- xn--bqro42frpg5up.cn
 - xn--c-irm.money
 - xn--cgo500-iz7b.com
 - xn--cgoempre-71a8356e.com
@@ -137180,6 +137187,7 @@ domain_suffix_set:
 - zpcj8.online
 - zpdnisvzedgbw.com
 - zpe.klre.18183.com
+- zpeqosn.icu
 - zpgetworker11.com
 - zphgadwnjro.com
 - zpidadpuhcm.com
