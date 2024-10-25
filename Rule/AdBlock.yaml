@@ -1,6 +1,6 @@
 # 规则名称: AdBlock
-# 规则数量: 137688
-# 更新时间: 2024-10-24 20:14:27
+# 规则数量: 137733
+# 更新时间: 2024-10-25 08:38:16
 
 no_resolve: true
 domain_set:
@@ -672,6 +672,7 @@ domain_suffix_set:
 - 1480876790.rsc.cdn77.org
 - 148dfe140d0f3d5e.com
 - 149.bestinterestings.com
+- 1494918251.rsc.cdn77.org
 - 1495039.com
 - 149549d67c.c759538eb2.com
 - 14cpoff22.de
@@ -803,6 +804,7 @@ domain_suffix_set:
 - 19035955.mktg.tajawal.com
 - 1905715.com
 - 1909a8.satofull.jp
+- 1918634747.rsc.cdn77.org
 - 1919f4eccf.08031fef00.com
 - 192.luyouwang.com
 - 1933000.com
@@ -1784,6 +1786,7 @@ domain_suffix_set:
 - 3bq57qu8o.com
 - 3bxe2.cyou
 - 3c0cb3b4.space
+- 3cb9b57efc.com
 - 3cg6sa78w.com
 - 3d-download.org
 - 3d0cb547.space
@@ -6373,6 +6376,7 @@ domain_suffix_set:
 - achieverknee.com
 - achilles-ena.com
 - achilles-par.com
+- achingborder.com
 - achnyyjlxrfkwt.xyz
 - achoachemain.com
 - achpokevvh.com
@@ -11487,6 +11491,7 @@ domain_suffix_set:
 - agajx.com
 - agakoffingan.com
 - agalarvitaran.com
+- agalumineonr.com
 - agamaevascla.top
 - agamagcargoan.com
 - agamantykeon.com
@@ -12457,6 +12462,7 @@ domain_suffix_set:
 - alljazeera.co
 - allkeygensdownload.com
 - allkindlecloud.com
+- allkmbr.icu
 - allkpop.fr
 - alllget.com
 - allloveydovey.fun
@@ -18303,7 +18309,6 @@ domain_suffix_set:
 - b73c.pandasuite.io
 - b73uszzq3g9h.com
 - b76751e155.com
-- b7755dcb72.3cb9b57efc.com
 - b7ax3cyzhq.com
 - b7om8bdayac6at.com
 - b7sw62.pingshu8.xyz
@@ -24471,6 +24476,7 @@ domain_suffix_set:
 - ccrdms.butopea.com
 - ccrkpsu.com
 - ccrtvi.com
+- ccryxqgqf.com
 - ccsagacheats.com
 - ccscserver.com
 - ccsshn137.shop
@@ -28286,6 +28292,7 @@ domain_suffix_set:
 - compensationpropulsion.com
 - compensationstout.com
 - competehack.com
+- competemerriment.com
 - competencesickcake.com
 - competitionbeetle.com
 - compiledoctor.com
@@ -28455,6 +28462,7 @@ domain_suffix_set:
 - confideshrinebuff.com
 - confidethirstyfrightful.com
 - config-api.internet.apps.samsung.com
+- config-p2p-other.vcloud.ks-live.com
 - config.baofeng.net
 - config.chsmarttv.com
 - config.cmpassport.com
@@ -29415,6 +29423,7 @@ domain_suffix_set:
 - costarg.com
 - costco-adbutler.com
 - costhandbookfolder.com
+- costivecohorts.top
 - costo-us.costco.dev.cjmadobe.com
 - coststunningconjure.com
 - costumefilmimport.com
@@ -30980,7 +30989,9 @@ domain_suffix_set:
 - csymrm.24mx.fr
 - csyqts.tmon.co.kr
 - csyys0731.com
+- csyzhztgs.com
 - cszfsb.uniquefabric.ru
+- cszjyqqpj.com
 - cszlks.com
 - cszz.ru
 - ct-dev.taskhuman.com
@@ -38472,6 +38483,7 @@ domain_suffix_set:
 - djosbhwpnfxmx.com
 - djponj.xyz
 - djr4k68f8n55o.cloudfront.net
+- djrsvwtt.com
 - djs.baomihua.com
 - djugoogs.com
 - djv99sxoqpv11.cloudfront.net
@@ -39536,6 +39548,7 @@ domain_suffix_set:
 - downmz.com
 - downparanoia.com
 - downpayment.fernsby.com
+- downright-administration.pro
 - downstairsnegotiatebarren.com
 - downtowndirection.com
 - downtowndisapproval.com
@@ -39885,6 +39898,7 @@ domain_suffix_set:
 - drug-testing.shengen.ru
 - drugdetox.shengen.ru
 - druggedforearm.com
+- drugstoredemuretake.com
 - drugtest.questdiagnostics.com
 - druguniverseinfected.com
 - druic.mytxt.cc
@@ -40391,6 +40405,7 @@ domain_suffix_set:
 - dwuzxuvwlq.winticket.jp
 - dwvbfnqrbif.com
 - dwwpofwebdwm.com
+- dwydqnclgflug.com
 - dwyngjb.icu
 - dx-cards-css.iqiyi.com
 - dx.mountain.com
@@ -43932,6 +43947,7 @@ domain_suffix_set:
 - epwa.europarl.europa.eu
 - epxfjcb.xyz
 - epxprfk.xyz
+- epynkklzkvnvs.com
 - eq-beacon.stream.co.jp
 - eq-player-log.cdnext.stream.ne.jp
 - eq.af31f.site
@@ -45741,6 +45757,7 @@ domain_suffix_set:
 - faeryreified.com
 - faestara.com
 - fafmimgubcm.com
+- fagarauvitic.com
 - fagawdasv.com
 - faggapmunost.com
 - faggotry.com
@@ -51856,6 +51873,7 @@ domain_suffix_set:
 - gjljde.kathmandu.co.nz
 - gjmedashb0.fun
 - gjmovc.epapoutsia.gr
+- gjnbf.com
 - gjndsa.amaro.com
 - gjnzqdpzda.com
 - gjonfartyb.com
@@ -57950,6 +57968,7 @@ domain_suffix_set:
 - huoju.asia
 - huomob.com
 - huoxingtan66.com
+- huoxun.wang
 - hupiru.uno
 - huppontic.com
 - hupu-nba.com
@@ -58786,6 +58805,7 @@ domain_suffix_set:
 - iewruto.top
 - iewtwo.xyz
 - ieymhkx.icu
+- ieyri61b.xyz
 - ieyykq.wikium.ru
 - iezptsoc.com
 - iezxmddndn.com
@@ -59056,6 +59076,7 @@ domain_suffix_set:
 - ijuns.com
 - ijvla.cn
 - ijvugl.pohistvo.si
+- ijwkdmzru.com
 - ijynarif.xyz
 - ik.nuraghireels.com
 - ik8uf01fm7neloo9.edge41.testandtarget.omniture.com
@@ -68148,6 +68169,7 @@ domain_suffix_set:
 - lgidskil.top
 - lgjygg.com
 - lgkdnlienpynmn.com
+- lgkocdi.icu
 - lgkyhl.biurwa.pl
 - lgm.averydennison.com
 - lgoewtd.icu
@@ -72909,6 +72931,7 @@ domain_suffix_set:
 - macleaner.space
 - macomaenteria.top
 - macoms.la
+- macos.space
 - macpurifier.com
 - macromill.com
 - macsecurityalarm.info
@@ -83500,6 +83523,7 @@ domain_suffix_set:
 - nr.static.mmcdn.com
 - nr7.us
 - nra.locktonaffinity.net
+- nrarnesjbsef.com
 - nrbqgf.cn
 - nrcykmnukb.com
 - nreg.world
@@ -84766,6 +84790,7 @@ domain_suffix_set:
 - ohjrxj.personalizationmall.com
 - ohkahfwumd.com
 - ohkdsplu.com
+- ohkfmi.xyz
 - ohkojloxdtw.com
 - ohkvifgino.com
 - ohlattice.com
@@ -85170,6 +85195,7 @@ domain_suffix_set:
 - omgwowgirls.com
 - omgwtfvid.info
 - omgy.co
+- omheth.com
 - omhoa.com
 - omhxguadsvq.com
 - omiki.com
@@ -86564,6 +86590,7 @@ domain_suffix_set:
 - oungoowe.xyz
 - ounigaugsurvey.space
 - ounion.openadx.com
+- ounobdlzzks.world
 - ounsamie.xyz
 - ounwut.thehappyplanner.com
 - oupai.cc
@@ -86698,6 +86725,7 @@ domain_suffix_set:
 - outube.com
 - outvoteloco.shop
 - outwhirlipedeer.com
+- outwingullom.com
 - outwitridiculousresume.com
 - outwoodeuropa.com
 - outyanmegaom.com
@@ -87019,6 +87047,7 @@ domain_suffix_set:
 - ozolei.xyz
 - ozonemedia.adbureau.net
 - ozonemedia.com
+- ozonerexhaled.click
 - ozongees.com
 - ozqoztrkoaj.com
 - ozsoekwgy.com
@@ -89474,6 +89503,7 @@ domain_suffix_set:
 - phoulade.xyz
 - phoutchounse.com
 - phouvemp.net
+- phovaiksou.net
 - phox2ey.bid
 - phpad.cqnews.net
 - phpads.astalavista.us
@@ -91689,6 +91719,7 @@ domain_suffix_set:
 - preferunhair.com
 - prefixpatriot.com
 - prefleks.com
+- pregainskilly.shop
 - pregnancyslayidentifier.com
 - pregrados.javeriana.edu.co
 - prehistoricprefecturedale.com
@@ -93677,6 +93708,7 @@ domain_suffix_set:
 - pzjizsyf.icu
 - pznlpp.xyz
 - pzoifaum.info
+- pzpcgiaj.com
 - pzphmkf.xyz
 - pzpivx.xyz
 - pzqfmhy.com
@@ -93877,6 +93909,7 @@ domain_suffix_set:
 - qdicel.marymaxim.com
 - qdickey.top
 - qdipsumy.top
+- qdjsiyt.icu
 - qdkaky.rikilovesriki.com
 - qdlyqbpzfkl.com
 - qdlzj.cn
@@ -97176,6 +97209,7 @@ domain_suffix_set:
 - ri.5.p2l.info
 - riaoz.xyz
 - riastats.com
+- riazrk-oba.online
 - riben.ru
 - ribpijhmihar.com
 - ribqpiocnzc.com
@@ -97900,6 +97934,7 @@ domain_suffix_set:
 - rpgmasterleague.com
 - rpgratuit.com
 - rpiher.web-camp.io
+- rpjkwhkxh.com
 - rpkcqtf.cn
 - rplog.baidu.com
 - rplzmw.cn
@@ -101788,6 +101823,7 @@ domain_suffix_set:
 - sekaze.ru
 - sekindo.com
 - sekomums.lv
+- sekqeraneosbm.com
 - seks-partner.com
 - sel-sel-fie.com
 - selarbiosites.fr
@@ -102844,6 +102880,7 @@ domain_suffix_set:
 - shasogna.com
 - shatershepeleve.com
 - shatterconceal.com
+- shauduptel.net
 - shaugacakro.net
 - shauhacm.net
 - shauksug.com
@@ -103986,6 +104023,7 @@ domain_suffix_set:
 - skullhalfway.com
 - skunk.dwa.li
 - skunk.gameworkersolidarity.com
+- skunscold.top
 - skvnlg.unisportstore.at
 - skwumz.asphaltgold.de
 - skxbbj.clasic.jp
@@ -115439,6 +115477,7 @@ domain_suffix_set:
 - tarantula.emotionalbaking.com
 - tarantula.searchbox.tech
 - tarantula.tuxedo.media
+- tarcavbul.com
 - tardangro.com
 - targad.de
 - targaubs.com
@@ -116438,6 +116477,7 @@ domain_suffix_set:
 - tenoremediary.shop
 - tenping.kr
 - tensagesic.com
+- tensasscarify.com
 - tenseapprobation.com
 - tensorsbancos.com
 - tent0mown.com
@@ -124038,6 +124078,7 @@ domain_suffix_set:
 - tvreel.us
 - tvrom.cn
 - tvrshv.xyz
+- tvrzftbmhkeuuc.com
 - tvseries-cravings.info
 - tvshowslist.com
 - tvshowsnow.tvmax.hop.clickbank.net
@@ -126359,6 +126400,7 @@ domain_suffix_set:
 - uyyquln.icu
 - uz-analysis.akamaized.net
 - uz.gamyboxbush.com
+- uzauxaursachoky.net
 - uzd1.madeindesign.com
 - uzdhsjuhrw.com
 - uzelzfnj.xyz
@@ -126759,6 +126801,7 @@ domain_suffix_set:
 - vbkryy.pasonacareer.jp
 - vbnm888.com
 - vbnmjjda.xyz
+- vbozbkzvyzloy.top
 - vbrbgki.com
 - vbrusdiifpfd.com
 - vbseje.stonehengehealth.com
@@ -127691,7 +127734,6 @@ domain_suffix_set:
 - virtuousescape.pro
 - virtus-voice.com
 - virus-detection-portal.us
-- virus-engine.sec.miui.com
 - virus-exe-server.us
 - virus-server-detection.us
 - virusinfo-cloudscan-cn.heytapmobi.com
@@ -128424,6 +128466,7 @@ domain_suffix_set:
 - vvv.spahelani.com
 - vvwuqxp.icu
 - vvxhth.xyz
+- vwagkipi.com
 - vwakpz.vidri.com.sv
 - vwbbpe.aircaraibes.com
 - vwchbsoukeq.xyz
@@ -130377,7 +130420,6 @@ domain_suffix_set:
 - whxhhjx.com
 - why.hdvest.com
 - why3.inseec.education
-- whyareyouherewho.ru
 - whyl-laz-i-264.site
 - whysoserius.cl
 - whysoserius.club
@@ -133646,6 +133688,7 @@ domain_suffix_set:
 - xfzcds.netprint.ru
 - xfztgxt.com
 - xg-hacks.com
+- xg-jbpmnru.online
 - xg.aomg5bzv7.com
 - xg4ken.com
 - xg6hb.xyz
@@ -134581,6 +134624,7 @@ domain_suffix_set:
 - xtremeviewing.com
 - xtremline.com
 - xtrkhv.xyz
+- xtroglobal.com
 - xtsk.6yush.cn
 - xttaff.com
 - xtvmlw.athloscbd.com
@@ -135657,6 +135701,7 @@ domain_suffix_set:
 - yoda.aomg5bzv7.com
 - yoda.kwd.inkuai.com
 - yodimedia.com
+- yodpbbkoe.com
 - yofi-yofi.com
 - yofprpv.cn
 - yogacomplyfuel.com
